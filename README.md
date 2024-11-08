@@ -1,6 +1,6 @@
 # End to End A.I Blog Generation with AWS Bedrock, AWS Lambda and S3 Storage
 
-This project is designed to generate a blog using AWS Bedrock's language model and store it in an S3 bucket. The architecture involves AWS Lambda, API Gateway, Bedrock, S3, and Postman as the API client for testing. 
+This project is designed to generate a blog using AWS Bedrock's language model service, specifically leveraging Meta's LLama model (meta.llama3-70b-instruct-v1:0). The Overall architecture involves AWS Lambda, API Gateway, Bedrock, S3, and Postman as the API client for testing. 
 
 ## Architecture
 
